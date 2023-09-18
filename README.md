@@ -1,16 +1,13 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=header"/>
 
-<!--
-**TayaneAschley/TayaneAschley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFB6C1&size=35&center=true&vCenter=true&width=1000&lines=Heloo,+My+name+is+Tayane+Aschley...;I'm+20+years+old,+and...;i'm+software+development+student!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+##
 
-Here are some ideas to get you started:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TayaneAschley&theme=date_night&show_icons=true&text_color=FFB6C1&title_color=CD5C5C" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayaneAschley&theme=date_night&layout=compact&text_color=FFB6C1&title_color=CD5C5C" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" color="FFB6C1">  
+  <h4>More updates coming soon 😊</h4>
+</div>
