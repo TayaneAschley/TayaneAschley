@@ -11,3 +11,6 @@
 <div align="center" color="FFB6C1">  
   <h4>More updates coming soon 😊</h4>
 </div>
+
+![Snake animation](https://github.com/TayaneAschley/TayaneAschley/blob/output/github-contribution-grid-snake.svg)
+
